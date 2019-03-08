@@ -7,7 +7,6 @@ exports[`IconComponent should match snapshot 1`] = `
   click={[Function EventEmitter]}
   consoleHandler={[Function Function]}
   descId="undefined"
-  getAriaLabelledBy={[Function Function]}
   getColor={[Function Function]}
   getColorSpec={[Function Function]}
   getHexFromJSON={[Function Function]}
@@ -18,8 +17,6 @@ exports[`IconComponent should match snapshot 1`] = `
   titleId={[Function String]}
 >
   <i
-    aria-label="getAriaLabel()"
-    aria-labelledby="getAriaLabelledBy()"
     class="cui-icon icon icon-info_16"
   />
 </cui-icon>

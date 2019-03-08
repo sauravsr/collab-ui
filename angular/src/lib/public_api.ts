@@ -20,5 +20,6 @@ export * from './modal-body';
 export * from './modal-header';
 export * from './modal-footer';
 export * from './radio';
+export * from './select';
 export * from './spinner';
 export * from './tabs';

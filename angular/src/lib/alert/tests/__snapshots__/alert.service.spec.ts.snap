@@ -76,8 +76,6 @@ exports[`AlertService should render a cui-alert-container html element in bottom
                   >
                     
                     <i
-                      aria-label="getAriaLabel()"
-                      aria-labelledby="getAriaLabelledBy()"
                       class="cui-icon icon icon-cancel_16"
                     />
                     
